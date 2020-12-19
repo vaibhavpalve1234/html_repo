@@ -1,0 +1,31 @@
+*   {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: rgba(26, 14, 13, 0.651); */
+    box-sizing:content-box;
+    }
+#header{
+    height: 100vh;
+    border-image: 1vw rgb(212, 189, 56);
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://source.unsplash.com/1400x900/?github); 
+    } 
+.logo{
+    margin-left: 1vw;
+    margin-top: 10px;
+
+}
+
+marquee{
+    color: rgb(20, 8, 2);
+    background-color: rgb(230, 236, 240);
+    }
+
+h1{
+    /* background-color: rgb(218, 218, 231);  */
+    text-align: center; 
+    margin-top: 35px;
+    margin-left: 100px;
+}
