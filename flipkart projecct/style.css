@@ -1,0 +1,21 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 ;
+}
+.table{
+    background-color: blue;
+    }
+.table1{
+    background-color: white;
+    }
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/02/08/58/background-texture-2110724_960_720.jpg");
+}
+h2{
+    background-color:gold;
+}
