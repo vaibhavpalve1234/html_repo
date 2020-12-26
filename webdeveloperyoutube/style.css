@@ -1,0 +1,14 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.div1{
+    background-color: black;
+}
+.div3{
+    width:800px; margin:0 auto;
+}
+hr{
+    height: 10px; 
+    background-color: black;
+}
